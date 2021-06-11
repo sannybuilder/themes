@@ -1,6 +1,6 @@
 ## Sanny Builder Themes
 
-This repository aims to collects themes designed to customize look and feel of the Sanny Builder IDE and syntax highlighting. Sanny Builder supports themes since v3.8.0.
+This repository aims to collect themes designed to customize look and feel of the Sanny Builder IDE and syntax highlighting. Sanny Builder supports themes since v3.8.0.
 
 ## Contributing
 
