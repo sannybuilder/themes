@@ -24,8 +24,8 @@ Preview of some of the user-made themes:
 ### Papyrus by Vital
 ![Papyrus by Vital](https://user-images.githubusercontent.com/73489604/121439577-e174cf80-c98e-11eb-9bf3-57e26f4cd05f.png)
 
-### Material Dark by MatiDragon
-![Material Dark by MatiDragon](https://user-images.githubusercontent.com/43966706/119834671-8b0b8980-bed6-11eb-86a2-b4babda64ad0.png)
+### Materials by MatiDragon
+https://user-images.githubusercontent.com/43966706/121794876-64419880-cbe2-11eb-8d79-97ee3c031e44.mov
 
 ### Gitbook Blue by wmysterio
 ![gitbook-blue](https://user-images.githubusercontent.com/5698288/121693385-13715900-ca97-11eb-83d1-5996dce3a166.PNG)
