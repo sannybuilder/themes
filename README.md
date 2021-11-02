@@ -32,3 +32,7 @@ https://user-images.githubusercontent.com/43966706/132282980-7da60c38-79af-4306-
 
 ### VS Light Blue by wmysterio
 ![vs-light](https://user-images.githubusercontent.com/5698288/121693789-7236d280-ca97-11eb-8099-719606343bc6.PNG)
+
+### Classic Dark by JaggerJam
+![classic-dark](https://user-images.githubusercontent.com/52425656/139829143-717dc95b-e3b5-4721-a171-530da0cb69b4.png)
+
