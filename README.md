@@ -36,3 +36,15 @@ https://user-images.githubusercontent.com/43966706/154802968-e1c9c6d0-fdf1-4daa-
 ### Classic Dark by JaggerJam
 ![classic-dark](https://user-images.githubusercontent.com/52425656/139829143-717dc95b-e3b5-4721-a171-530da0cb69b4.png)
 
+### NeoDark by Johnnie
+![NeoDark](https://github.com/johnnie-br/themes/assets/133685928/d506cafc-ed21-465f-a492-8ea37522566f)
+
+### Sanny Builder Library Dark by Johnnie
+![SBLD](https://github.com/johnnie-br/themes/assets/133685928/40b94048-c573-47e1-8a4e-52abfe3cafdc)
+
+### Sanny Builder Library Light by Johnnie
+![SBLL](https://github.com/johnnie-br/themes/assets/133685928/dae5e679-ef40-4b8c-8edd-7a20a0015cb8)
+
+
+
+
